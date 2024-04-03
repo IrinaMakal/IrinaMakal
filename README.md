@@ -14,4 +14,4 @@ Skills: Python / Pandas / Numpy / Seaborn / SQL / Tableau / Power BI / Airflow
 ----------------- | ----------------- | ----------
 [e-commerce](https://github.com/IrinaMakal/e-com)  | Content Cell  | Content Cell
 [Расчет метрик для образовательной платформы](https://github.com/IrinaMakal/metrics_for_educational_platform)  | Необходимо рассчитать следующие метрики для групп пользователей: ARPU, ARPAU, CR в покупку, СR активного пользователя в покупку и др.  | pandas, pandahouse, SQL
-[Дашборд](https://public.tableau.com/app/profile/irina6552/viz/project_satisfaction_17032466525530/satisfaction_dashbord)  | Необходимо   | Tableau
+[Дашборд для анализа уровня удовлетворенности сотрудников](https://public.tableau.com/app/profile/irina6552/viz/project_satisfaction_17032466525530/satisfaction_dashbord)  | Необходимо проанализировать уровень удовлетворенности в компании и в разрезе департаментов и должностей. Анализ основывается на полученных данных тематического опроса. Дашборд необходим для руководителя и сотрудников отдела HR-аналитики.  | Tableau

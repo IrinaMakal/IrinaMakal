@@ -13,6 +13,4 @@ Skills: Python / Pandas / Numpy / Seaborn / SQL / Tableau / Power BI / Airflow
 Название проекта  | Описание проекта  | Стек
 ----------------- | ----------------- | ----------
 [e-commerce](https://github.com/IrinaMakal/e-com)  | Content Cell  | Content Cell
------------------ | ----------------- | ----------
 [Расчет метрик для образовательной платформы](https://github.com/IrinaMakal/metrics_for_educational_platform)  | Необходимо рассчитать следующие метрики для групп пользователей: ARPU, ARPAU, CR в покупку, СR активного пользователя в покупку и др.  | pandas, pandahouse, SQL
------------------ | ----------------- | ----------
